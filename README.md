@@ -1,4 +1,4 @@
-# **Laboratório \- Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dado**
+# **Laboratório \- Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados**
 
 Este repositório documenta a aplicação prática de técnicas para organização, pesquisa e mineração de conhecimento em documentos, utilizando ferramentas de Inteligência Artificial. O objetivo é criar um sistema de busca inteligente, desde a preparação dos dados até a exploração dos resultados.
 
